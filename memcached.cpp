@@ -3,8 +3,9 @@
 // ~~~~~~~~~~~~~~~~~~~~~~~~~
 // memcached programming exercise from Steve Sanders, April 27, 2015
 // steve@zanderz.com
+// github: zanderz
 // Partially inspired by a boost.asio example
-// Compiled on windows with boost 1.58, written to be cross platform.
+// Compiled on windows with boost 1.61, written to be cross platform.
 //
 // Usage: memcached [port]
 // 
